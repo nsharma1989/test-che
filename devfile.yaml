@@ -22,11 +22,5 @@ projects:
 components:
 -
   type: chePlugin
-  reference: https://raw.githubusercontent.com/nsharma1989/test-che/master/meta.yaml
+  reference: https://raw.githubusercontent.com/nsharma1989/test-che/master/v3/plugins/debug/debug/1.0.0/meta.yaml
   alias: wazi-debug
--
-  type: dockerimage
-  alias: wazi
-  image: docker.io/ibmcom/wazi-code-codeready:latest
-  memoryLimit: 512Mi
-  mountSources: true 
