@@ -17,4 +17,4 @@ repository: https://github.com/IBM/zopendebug-about.git
 category: Language
 firstPublicationDate: "2019-10-03"
   extensions:
-  - https://github.ibm.com/n-sharma/theia-zopen-debug/blob/master/plugins/zopendebug-profileui-1.0.0.vsix
+  - https://github.com/nsharma1989/test-che/releases/download/1.0.0/zopendebug-profileui-1.0.0.vsix
